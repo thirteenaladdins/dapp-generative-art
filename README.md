@@ -1,2 +1,2 @@
-# dapp-generative-art
+# generative-art
 A place to upload my generative artwork.
