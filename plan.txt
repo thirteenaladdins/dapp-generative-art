@@ -1,0 +1,9 @@
+what I need is to optimise the pipeline for these drawings
+
+I want to:
+
+sort the lines, optimise
+scale the drawing for my printer - 100mm x 100mm 
+output gcode on the commmand line
+
+simple. come back to this tomorrow.

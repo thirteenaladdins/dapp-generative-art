@@ -1,12 +1,22 @@
 import py5
+import py5_tools
 # import time
-# import py5_tools
+
+
+# py5 size?
+# output in millimetres
+# py5_tools.set_py5_size(100, 100, 'mm')
 
 def setup():
+    
+    
     py5.size(600, 600, py5.SVG, 'the_lover.svg')
     # py5.size(600, 600)
     py5.no_loop()
     
+# this outputs the shape I want but it doesn't create a suitable 
+# file to convert to gcode
+# output 
 
 def draw():    
     py5.stroke_weight(2.5)    
