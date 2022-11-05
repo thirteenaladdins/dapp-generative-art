@@ -16,6 +16,8 @@ def draw():
     # scale this to fit in the canvas
     num = 120;
     radius = 80;
+
+    py5.rect(0, 0, py5.width, py5.height)
     
     for i in range(0, num, 2):
       angle = math.radians(360 / num) * i
